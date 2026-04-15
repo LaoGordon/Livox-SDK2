@@ -38,7 +38,7 @@ Livox SDK2 communication protocol opens to all users. It is the communication pr
 * Arch:
   * x86
   * ARM
-## 2.2 Instruction for Ubuntu 20.04
+## 2.2 Instruction for Ubuntu 20.04 or 22.04
 
 1. Dependencies:
 
@@ -54,7 +54,7 @@ $ sudo apt install cmake
 3. Compile and install the Livox-SDK2:
 
 ```shell
-$ git clone https://github.com/Livox-SDK/Livox-SDK2.git
+$ git clone https://github.com/LaoGordon/Livox-SDK2.git
 $ cd ./Livox-SDK2/
 $ mkdir build
 $ cd build
